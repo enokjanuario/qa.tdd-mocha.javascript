@@ -1,12 +1,14 @@
 {
   "name": "qa.tdd-mocha.javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "Desafio técnico TDD",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [
+    "tdd",
+    "mocha"
   ],
   "author": "enokjanuario",
   "devDependencies": {
