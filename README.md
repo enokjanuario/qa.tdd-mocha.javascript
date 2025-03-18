@@ -19,3 +19,9 @@ As duas regras principais do TDD são:
 <div style="text-align:center">
   <img src="imagens/bdd.drawio.png" alt="Esquemático do BDD" />
 </div>
+
+### 3. Quais são as três leis do TDD?
+
+- Não escrever código de produção antes de escrever um teste que falhará, uma vez que o desenvolvimento sempre se inicia com um teste.
+- Não escrever mais código de teste do que o necessário para falhar.
+- Não escrever mais código de produção do que o necessário para que o teste passe, evitando funcionalidades extras.
