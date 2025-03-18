@@ -30,7 +30,7 @@ describe('Teste de verificação de idade para consumo de bebida alcoólica', ()
   });
 
   it('deve lançar um erro para idade negativa', () => {
-    expect(() => pessoa.ehMaiorDeIdade(-1)).to.throw('A idade não pode negativa');
+    expect(() => pessoa.ehMaiorDeIdade(-1)).to.throw('A idade não pode ser negativa');
   });
 
 });
